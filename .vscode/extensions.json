@@ -5,6 +5,7 @@
   "recommendations": [
     "ms-vscode.vscode-typescript-tslint-plugin",
     // checking if this is right 
+    // test1234 
     "xaver.clang-format",
   ],
 }
