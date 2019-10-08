@@ -4,7 +4,7 @@
   // List of extensions which should be recommended for users of this workspace.
   "recommendations": [
     "ms-vscode.vscode-typescript-tslint-plugin",
-    // test 
+    // checking if this is right 
     "xaver.clang-format",
   ],
 }
